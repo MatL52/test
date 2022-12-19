@@ -282,7 +282,7 @@ p {
     position: relative;
     background-position: center;
     top: 0;
-    background-image: url(./使用画像/foodiesfeed.com_relax-with-macarons-drink-and-a-book.jpg);
+    background-image: url(../使用画像/foodiesfeed.com_relax-with-macarons-drink-and-a-book.jpg);
     background-size: cover;
     height: 41vh;
     width: 100%;
@@ -740,14 +740,14 @@ p {
 .maca-ob a div:nth-of-type(1) {
     margin-bottom: 3vh;
     border-radius: 1000px 1000px 100px 100px;
-    background-image: url(./使用画像/co2-1.png);
+    background-image: url(../使用画像/co2-1.png);
     background-size: cover;
     background-position: center;
 }
 
 .maca-ob a:nth-of-type(2) div{
     border-radius: 100px 100px 1000px 1000px;
-    background-image: url(./使用画像/co3-1.png);
+    background-image: url(../使用画像/co3-1.png);
 }
 
 
